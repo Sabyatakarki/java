@@ -14,7 +14,8 @@ public class Switchcase {
                 break;
 
             }
-        }
+        }    
+            case 'a':
             System.out.println("Apple");
             break;
             case 'b':
@@ -32,7 +33,7 @@ public class Switchcase {
         }  
     }
 
-
+}
 /*Task
  * Consider the variable week in int
  * if the value is 
